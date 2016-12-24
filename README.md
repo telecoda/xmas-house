@@ -8,3 +8,6 @@ This year I decided to make a new house with the help of my kids and this is the
 Throw in a raspberry pi, sense hat, speaker and little bit of python and this is what we have.
 
 <img src="./photos/decorated.jpg" width="800">
+## video
+
+[https://www.youtube.com/watch?v=3mrCXsvmZoo](https://www.youtube.com/watch?v=3mrCXsvmZoo)
